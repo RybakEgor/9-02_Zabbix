@@ -55,9 +55,9 @@
 4. Приложите в файл README.md текст использованных команд в GitHub
 
 ### Ответ:
-1. ![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/zabbix_adm.png)`
-2. ![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/zabbix_adm.png)`
-3. ![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/zabbix_adm.png)`
+1. ![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/hosts.png)`
+2. ![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/working_agent_on_server.png)`
+3. ![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/latest_data.png)`
 4.
 - wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb
 - dpkg -i zabbix-release_6.4-1+debian11_all.deb
