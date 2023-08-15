@@ -21,7 +21,7 @@
 
 ### Ответ:
 1.
-![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/tree/main/img/zabbix_adm.png)
+![zabbix_adm](https://github.com/RybakEgor/9-02_Zabbix/blob/main/img/zabbix_adm.png)`
 
 2.  
 - wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb
